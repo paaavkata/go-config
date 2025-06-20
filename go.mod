@@ -1,4 +1,4 @@
-module github.com/file-convert/go-config
+module github.com/paaavkata/go-config
 
 go 1.21
 
